@@ -1,0 +1,42 @@
+CANDIDATE ID: C014
+CANDIDATE NAME: Candidate C014
+CONTACT: candidate.c014@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Backend Developer with 1.5 years of enterprise experience building web APIs and server-side components using C#, ASP.NET Core, and Microsoft SQL Server.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+C#, .NET Core, ASP.NET, SQL Server, SQL, Entity Framework, REST APIs, Git
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior .NET Developer | IronClad Software
+Duration: 2024 - Present (1.5 years)
+- Developed backend web APIs with C# and ASP.NET Core.
+- Wrote SQL queries and configured Entity Framework database contexts.
+- Maintained code using Git.
+
+Total Professional Experience: 1.5 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Corporate Employee Directory
+Description: Internal REST API service for organization role hierarchy and identity.
+Technologies: C#, .NET Core, SQL Server, Git
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Information Systems
+Central Valley Institute | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

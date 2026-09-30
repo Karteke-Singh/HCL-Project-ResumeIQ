@@ -1,0 +1,31 @@
+job_id,candidate_id,relevance_1_to_5,reason
+JOB_001_PY_BACKEND,C001,5,"Strong match: Meets all requirements (Python, FastAPI, SQL, REST APIs, Git, Pytest) with 2 yrs exp."
+JOB_001_PY_BACKEND,C002,4,"Strong partial match: 2 yrs Python backend, Django, SQL, REST APIs; lacks FastAPI."
+JOB_001_PY_BACKEND,C004,3,"Project match: Strong Python/FastAPI capstone projects, but 0 yrs professional exp (tests min-experience filter)."
+JOB_001_PY_BACKEND,C007,3,"Moderate match: 1.5 yrs Python, Flask, SQL, REST APIs; general full-stack background."
+JOB_001_PY_BACKEND,C013,3,"Moderate match: 1.5 yrs Python, FastAPI, REST APIs; primarily MongoDB rather than SQL."
+JOB_001_PY_BACKEND,C015,3,"Moderate match: Python and FastAPI serving experience, but ML focused."
+JOB_001_PY_BACKEND,C010,2,"Weak match: 2 yrs Python and Pytest API testing, but QA rather than backend development."
+JOB_001_PY_BACKEND,C006,2,"Weak match: 2 yrs Python and SQL, but focused on data pipelines/ETL rather than REST APIs."
+JOB_001_PY_BACKEND,C003,2,"Weak match: 2 yrs enterprise backend with SQL and REST APIs, but in Java/Spring Boot without Python."
+JOB_001_PY_BACKEND,C008,2,Weak match: DevOps and container automation with Python scripting; light on backend API engineering.
+JOB_001_PY_BACKEND,C009,4,"Overqualified: 6 yrs senior experience across FastAPI, PostgreSQL, and microservices."
+JOB_001_PY_BACKEND,C014,2,"Weak match: Backend developer with SQL and REST APIs, but in C#/.NET rather than Python."
+JOB_001_PY_BACKEND,C011,1,Very weak match: Data analyst with SQL and BI dashboards; little software development.
+JOB_001_PY_BACKEND,C012,1,Very weak match: Mobile developer (Flutter/Dart); no Python or backend services.
+JOB_001_PY_BACKEND,C005,1,Very weak match: Frontend web developer (React/CSS/JS); minimal backend relevance.
+JOB_002_DATA_ENG,C006,5,"Strong match: Meets all requirements (Python, SQL, ETL, Pandas, Airflow, PostgreSQL, 2 yrs exp)."
+JOB_002_DATA_ENG,C011,4,"Strong partial match: 1.5 yrs SQL, Pandas, data transformations; analytics background transitioning to pipeline engineering."
+JOB_002_DATA_ENG,C015,4,"Strong partial match: 1.5 yrs Python, Pandas, data preprocessing and ML model pipelines; easily adapts to ETL."
+JOB_002_DATA_ENG,C001,3,"Moderate match: Strong Python and PostgreSQL/SQL skills, but backend API rather than data pipelines."
+JOB_002_DATA_ENG,C002,3,"Moderate match: 2 yrs Python and PostgreSQL SQL experience, but web application focused."
+JOB_002_DATA_ENG,C009,3,"Overqualified / Adjacent: Senior backend architect with deep Python & PostgreSQL, but enterprise microservices focus."
+JOB_002_DATA_ENG,C004,2,"Weak match: Python and SQL projects, but 0 yrs experience and lacks ETL/Pandas focus."
+JOB_002_DATA_ENG,C007,2,Weak match: Lightweight Flask/SQLite web developer; no data pipeline or ETL engineering.
+JOB_002_DATA_ENG,C008,2,Weak match: DevOps engineer with Python scripting; cloud infra focused rather than data pipelines.
+JOB_002_DATA_ENG,C010,2,Weak match: QA automation with Python; test automation rather than data engineering.
+JOB_002_DATA_ENG,C013,2,Weak match: Python backend developer with MongoDB/NoSQL focus; lacks relational SQL and ETL.
+JOB_002_DATA_ENG,C003,1,"Very weak match: Java/Spring Boot backend; no Python, Pandas, or ETL pipeline experience."
+JOB_002_DATA_ENG,C005,1,Very weak match: Frontend React developer with no data engineering background.
+JOB_002_DATA_ENG,C012,1,Very weak match: Mobile developer (Flutter/Dart); no data engineering or Python relevance.
+JOB_002_DATA_ENG,C014,1,"Very weak match: C#/.NET developer; no Python, Pandas, or data engineering tools."

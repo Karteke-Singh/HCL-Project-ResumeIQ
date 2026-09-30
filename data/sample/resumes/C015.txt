@@ -1,0 +1,42 @@
+CANDIDATE ID: C015
+CANDIDATE NAME: Candidate C015
+CONTACT: candidate.c015@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Machine Learning Engineer with 1.5 years of experience training predictive models and deploying inference APIs using Python, Scikit-Learn, PyTorch, Pandas, and FastAPI.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, Machine Learning, Scikit-Learn, PyTorch, Pandas, NumPy, FastAPI, SQL, Git
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior ML Engineer | Synthetix AI
+Duration: 2024 - Present (1.5 years)
+- Trained and evaluated tabular machine learning models in Python.
+- Built lightweight FastAPI wrapper endpoints to serve model predictions.
+- Processed dataset features using Pandas and NumPy.
+
+Total Professional Experience: 1.5 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Predictive Lead Scoring API
+Description: FastAPI service serving real-time lead conversion probability scores.
+Technologies: Python, FastAPI, Scikit-Learn, Pandas
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Data Science
+Pinnacle Institute | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

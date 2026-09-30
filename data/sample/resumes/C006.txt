@@ -1,0 +1,42 @@
+CANDIDATE ID: C006
+CANDIDATE NAME: Candidate C006
+CONTACT: candidate.c006@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Junior Data Engineer with 2 years of experience designing data pipelines, ETL workflows, and relational database warehouses using Python, SQL, and PostgreSQL. Proficient with Pandas and Apache Airflow.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, SQL, PostgreSQL, ETL, Pandas, Apache Airflow, Git, Data Modeling, Docker
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Data Engineer | DataStream Analytics
+Duration: 2024 - Present (2 years)
+- Built automated ETL pipelines extracting business data using Python and Pandas.
+- Designed and maintained PostgreSQL data warehouse schemas using SQL.
+- Scheduled workflow DAGs in Apache Airflow.
+
+Total Professional Experience: 2.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Automated Financial ETL Pipeline
+Description: Daily pipeline transforming high-volume transaction records into analytics tables.
+Technologies: Python, SQL, Pandas, PostgreSQL, Airflow
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Data Science
+Pacific Tech University | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

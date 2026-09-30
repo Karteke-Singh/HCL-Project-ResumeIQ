@@ -1,0 +1,42 @@
+CANDIDATE ID: C011
+CANDIDATE NAME: Candidate C011
+CONTACT: candidate.c011@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Data Analyst with 1.5 years of experience delivering quantitative reports, dashboards, and SQL analytics. Skilled with Power BI, Excel, Tableau, and data manipulation in Python with Pandas.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+SQL, Python, Pandas, Power BI, Tableau, Excel, Data Analysis, Git
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Data Analyst | Insights Corp
+Duration: 2024 - Present (1.5 years)
+- Wrote complex SQL queries to extract KPIs for executive leadership.
+- Created interactive reporting dashboards using Power BI and Tableau.
+- Preprocessed raw data tables using Python and Pandas.
+
+Total Professional Experience: 1.5 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Customer Churn Analytics Dashboard
+Description: Interactive Power BI dashboard tracking monthly cohort retention metrics.
+Technologies: SQL, Power BI, Python, Pandas
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Business Analytics
+Midwest Business School | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

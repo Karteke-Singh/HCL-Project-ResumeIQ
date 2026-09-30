@@ -1,0 +1,42 @@
+CANDIDATE ID: C003
+CANDIDATE NAME: Candidate C003
+CONTACT: candidate.c003@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Junior Backend Software Engineer with 2 years of enterprise experience building robust backend microservices using Java and Spring Boot. Strong grasp of relational databases with MySQL, RESTful API architecture, and CI/CD pipelines.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Java, Spring Boot, MySQL, REST APIs, SQL, Git, Maven, JUnit, CI/CD
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Java Backend Developer | Sterling Enterprise Systems
+Duration: 2024 - Present (2 years)
+- Engineered enterprise REST APIs using Java 17 and Spring Boot.
+- Wrote complex MySQL queries and stored procedures.
+- Authored automated unit tests with JUnit.
+
+Total Professional Experience: 2.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Banking Transaction Gateway
+Description: High-volume transaction ledger with relational database persistence.
+Technologies: Java, Spring Boot, MySQL, Git
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Software Engineering
+Highland Engineering College | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

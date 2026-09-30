@@ -1,0 +1,42 @@
+CANDIDATE ID: C010
+CANDIDATE NAME: Candidate C010
+CONTACT: candidate.c010@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+QA Automation Engineer with 2 years of experience writing automated test suites for REST APIs and web applications using Python, Pytest, and Selenium. Proficient in database query verification with SQL.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, Pytest, Selenium, Automated Testing, REST APIs, SQL, PostgreSQL, Git, CI/CD
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+QA Automation Engineer | QualityFirst Tech
+Duration: 2024 - Present (2 years)
+- Developed comprehensive end-to-end API testing frameworks using Python and Pytest.
+- Executed automated SQL queries to validate database state and data integrity.
+- Integrated automated test runs into CI/CD build pipelines.
+
+Total Professional Experience: 2.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: API Regression Testing Suite
+Description: Automated regression framework validating over 200 backend REST endpoints.
+Technologies: Python, Pytest, REST APIs, Git
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Computer Science
+Coastline University | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+- ISTQB Certified Tester

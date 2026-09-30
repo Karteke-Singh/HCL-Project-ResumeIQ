@@ -1,0 +1,42 @@
+CANDIDATE ID: C013
+CANDIDATE NAME: Candidate C013
+CONTACT: candidate.c013@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Backend Developer with 1.5 years of experience building modern asynchronous REST APIs using Python and FastAPI, paired primarily with MongoDB and Docker container environments.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, FastAPI, MongoDB, NoSQL, REST APIs, Docker, Git, Pydantic
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Backend Developer | Veloce Technologies
+Duration: 2024 - Present (1.5 years)
+- Engineered asynchronous backend endpoints in Python using FastAPI.
+- Modeled unstructured application collections in MongoDB.
+- Containerized microservices using Docker for testing and deployment.
+
+Total Professional Experience: 1.5 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Content Management Microservice
+Description: FastAPI document storage API backed by MongoDB.
+Technologies: Python, FastAPI, MongoDB, Docker
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Computer Engineering
+Granite State Tech | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

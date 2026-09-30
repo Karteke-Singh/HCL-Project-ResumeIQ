@@ -1,0 +1,43 @@
+CANDIDATE ID: C001
+CANDIDATE NAME: Candidate C001
+CONTACT: candidate.c001@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Junior Backend Developer with 2 years of experience building scalable RESTful APIs and microservices using Python, FastAPI, and PostgreSQL. Experienced in SQL database design, Git version control, and writing automated tests with Pytest.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, FastAPI, SQL, PostgreSQL, REST APIs, Git, Pytest, Automated Testing, Docker
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Backend Developer | Nexus Web Services
+Duration: 2024 - Present (2 years)
+- Developed asynchronous RESTful endpoints using Python and FastAPI.
+- Designed PostgreSQL database schemas and optimized SQL queries.
+- Wrote unit and integration tests using Pytest with 85%+ coverage.
+- Maintained code repository using Git and participated in peer reviews.
+
+Total Professional Experience: 2.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: E-Commerce Checkout Service
+Description: Asynchronous microservice managing order flow, payments, and inventory status.
+Technologies: Python, FastAPI, PostgreSQL, Pytest
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Computer Science
+Apex University | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+- Certified Entry-Level Python Programmer (PCEP)

@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "JOB_001_PY_BACKEND",
+    "job_title": "Junior Python Backend Developer",
+    "department": "Engineering",
+    "location_type": "Remote / Hybrid",
+    "description": "We are seeking a Junior Python Backend Developer to design, build, and maintain performant RESTful APIs, interact with relational databases using SQL, collaborate via Git workflows, and write automated tests. You will work closely with senior engineers to deliver reliable backend microservices.",
+    "minimum_experience_years": 1.0,
+    "preferred_education": "Bachelor's degree in Computer Science, Software Engineering, or related technical field (or equivalent practical experience)",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "SQL",
+      "REST APIs",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Automated Testing (Pytest)",
+      "PostgreSQL",
+      "Docker",
+      "CI/CD"
+    ],
+    "key_responsibilities": [
+      "Build and maintain asynchronous REST APIs using Python and FastAPI.",
+      "Design and optimize relational database schemas and execute queries using SQL.",
+      "Write unit and integration tests using Pytest to ensure reliability and high test coverage.",
+      "Collaborate using Git for feature branching, code reviews, and documentation."
+    ]
+  },
+  {
+    "job_id": "JOB_002_DATA_ENG",
+    "job_title": "Junior Python Data Engineer",
+    "department": "Data & Analytics",
+    "location_type": "Remote / Hybrid",
+    "description": "We are looking for a Junior Python Data Engineer to build and maintain data extraction, transformation, and loading (ETL) pipelines, write complex SQL queries for relational data warehouses, and manage pipeline orchestration.",
+    "minimum_experience_years": 1.0,
+    "preferred_education": "Bachelor's degree in Computer Science, Data Science, Information Systems, or related field",
+    "must_have_skills": [
+      "Python",
+      "SQL",
+      "ETL",
+      "Pandas",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "PostgreSQL",
+      "Apache Airflow",
+      "Docker",
+      "Data Modeling"
+    ],
+    "key_responsibilities": [
+      "Develop data ingestion and ETL scripts using Python and Pandas.",
+      "Write and optimize SQL queries and views in PostgreSQL.",
+      "Assist in monitoring pipeline DAGs with workflow orchestration tools.",
+      "Maintain data documentation and version-controlled data transformations via Git."
+    ]
+  }
+]

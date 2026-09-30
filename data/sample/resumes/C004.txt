@@ -1,0 +1,41 @@
+CANDIDATE ID: C004
+CANDIDATE NAME: Candidate C004
+CONTACT: candidate.c004@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Recent Computer Science graduate with hands-on academic and open-source project experience designing backend systems with Python, FastAPI, and SQL. Built multiple asynchronous REST APIs during capstone coursework. Seeking first professional software engineering role.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, FastAPI, SQL, SQLite, PostgreSQL, REST APIs, Git, Pydantic, Pytest
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+None (Entry-level / project experience only)
+Total Professional Experience: 0.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Smart Campus Event API
+Description: Asynchronous backend API built using FastAPI, Pydantic schemas, and SQL database models.
+Technologies: Python, FastAPI, SQL, SQLite, Git
+
+Project: Personal Expense Tracker API
+Description: RESTful service providing CRUD operations for budget tracking with JWT authentication.
+Technologies: Python, FastAPI, PostgreSQL, Pytest
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Computer Science
+Metro State University | Graduation Year: 2026
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

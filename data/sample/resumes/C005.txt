@@ -1,0 +1,42 @@
+CANDIDATE ID: C005
+CANDIDATE NAME: Candidate C005
+CONTACT: candidate.c005@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Frontend Developer with 2 years of professional experience specializing in client-side web development using modern JavaScript, React, HTML5, and CSS3/Tailwind CSS. Skilled in creating responsive, accessible UI components.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+JavaScript, React, HTML5, CSS3, Tailwind CSS, Redux, Webpack, Git, REST API Integration
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Frontend Developer | PixelCraft Studios
+Duration: 2024 - Present (2 years)
+- Built responsive, interactive user interfaces for SaaS dashboards using React and Tailwind CSS.
+- Connected user interfaces to backend REST APIs and handled frontend data validation.
+- Maintained component libraries and tracked code changes using Git.
+
+Total Professional Experience: 2.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Analytics Dashboard UI
+Description: Interactive data visualization dashboard with dark mode and charting components.
+Technologies: React, JavaScript, Tailwind CSS
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Arts in Digital Media and Web Design
+Summit Art and Tech College | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

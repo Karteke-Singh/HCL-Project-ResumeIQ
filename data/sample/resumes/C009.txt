@@ -1,0 +1,47 @@
+CANDIDATE ID: C009
+CANDIDATE NAME: Candidate C009
+CONTACT: candidate.c009@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Senior Backend Software Engineer with 6 years of industry experience architecting distributed backend services with Python, FastAPI, Django, and PostgreSQL. Experienced in distributed caching, Kubernetes, and mentoring junior engineers.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, FastAPI, Django, SQL, PostgreSQL, Redis, Docker, Kubernetes, REST APIs, Git, CI/CD, Microservices
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Senior Backend Engineer | Horizon Cloud Systems
+Duration: 2022 - Present (4 years)
+- Architected high-throughput microservices using Python and FastAPI.
+- Optimized PostgreSQL queries, indexing, and connection pools.
+- Guided architecture decisions and mentored junior developers.
+
+Software Engineer | TerraTech Labs
+Duration: 2020 - 2022 (2 years)
+- Developed backend web APIs using Django and PostgreSQL.
+- Built automated testing pipelines with Pytest and Docker.
+
+Total Professional Experience: 6.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Distributed Event Engine
+Description: Enterprise event streaming and API gateway processing millions of messages daily.
+Technologies: Python, FastAPI, PostgreSQL, Redis, Docker
+
+================================================================================
+EDUCATION
+================================================================================
+Master of Science in Computer Science
+National Institute of Science | Graduation Year: 2020
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+- AWS Certified Solutions Architect

@@ -1,0 +1,30 @@
+# Environments and secrets
+.env
+*.env
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite
+*.db
+
+# Data directories
+data/raw/*
+!data/raw/.gitkeep
+data/uploads/*
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Testing and builds
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/

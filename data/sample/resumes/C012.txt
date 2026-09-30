@@ -1,0 +1,42 @@
+CANDIDATE ID: C012
+CANDIDATE NAME: Candidate C012
+CONTACT: candidate.c012@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Mobile Application Developer with 2 years of experience crafting cross-platform iOS and Android apps using Flutter and Dart. Strong knowledge of REST API consumption, Firebase backend services, and Git.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Flutter, Dart, Firebase, Android, iOS, REST APIs, Git, Mobile Development
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Mobile Developer | AppNova Studios
+Duration: 2024 - Present (2 years)
+- Built cross-platform mobile user interfaces using Flutter and Dart.
+- Integrated client applications with backend REST APIs and Firebase auth.
+- Managed mobile build releases and Git versioning.
+
+Total Professional Experience: 2.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Fitness Habit Tracker App
+Description: Cross-platform mobile app tracking daily workouts and nutritional goals.
+Technologies: Flutter, Dart, Firebase, REST APIs
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Software Engineering
+Southern Tech University | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

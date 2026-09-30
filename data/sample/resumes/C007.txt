@@ -1,0 +1,42 @@
+CANDIDATE ID: C007
+CANDIDATE NAME: Candidate C007
+CONTACT: candidate.c007@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Junior Full-Stack / Python Developer with 1.5 years of experience building web applications using Python, Flask, SQL, and JavaScript. Comfortable working across both lightweight backend APIs and client-side interfaces.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, Flask, SQL, SQLite, JavaScript, HTML5, CSS3, REST APIs, Git
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Full Stack Developer | OmniApp Solutions
+Duration: 2024 - Present (1.5 years)
+- Developed backend API services using Flask and Python.
+- Created database tables and queries using SQL.
+- Built lightweight frontend interfaces using JavaScript and HTML.
+
+Total Professional Experience: 1.5 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Inventory Tracking Web App
+Description: Web portal for tracking warehouse stock levels with Flask backend and SQLite database.
+Technologies: Python, Flask, SQL, JavaScript
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Computer Science
+Valley State University | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None

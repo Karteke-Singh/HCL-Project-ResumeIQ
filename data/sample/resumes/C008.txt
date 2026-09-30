@@ -1,0 +1,42 @@
+CANDIDATE ID: C008
+CANDIDATE NAME: Candidate C008
+CONTACT: candidate.c008@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Cloud and DevOps Engineer with 2.5 years of experience managing Linux infrastructure, Docker containerization, Kubernetes clusters, and CI/CD pipelines. Uses Python and Bash for operations automation.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Linux, Docker, Kubernetes, AWS, Bash, Python, CI/CD, Git, Terraform
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Associate DevOps Engineer | CloudForge Infrastructure
+Duration: 2023 - Present (2.5 years)
+- Managed Docker container deployments and Kubernetes clusters.
+- Automated infrastructure provisioning and monitoring using Python and Bash scripts.
+- Constructed CI/CD deployment pipelines using GitHub Actions.
+
+Total Professional Experience: 2.5 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Automated Cloud Deployment Runner
+Description: Python CLI tool for provisioning AWS instances and Dockerized environments.
+Technologies: Python, Docker, AWS, Bash
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Network Systems
+Northwest Polytechnic | Graduation Year: 2023
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+- AWS Certified Cloud Practitioner

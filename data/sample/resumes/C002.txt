@@ -1,0 +1,42 @@
+CANDIDATE ID: C002
+CANDIDATE NAME: Candidate C002
+CONTACT: candidate.c002@synthetic-dataset.local | Synthetic Region
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Backend Developer with 2 years of experience developing web applications using Python and Django. Skilled in REST API design, relational SQL databases, and database schema migrations.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Python, Django, Django REST Framework, SQL, PostgreSQL, REST APIs, Git, Relational Database Design
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Junior Software Developer | Beacon Digital Solutions
+Duration: 2024 - Present (2 years)
+- Built web services and REST endpoints using Django and Python.
+- Managed PostgreSQL database schemas and performed data migrations using SQL.
+- Collaborated with frontend teams via Git.
+
+Total Professional Experience: 2.0 years
+
+================================================================================
+PROJECTS
+================================================================================
+Project: Customer Support CRM
+Description: Ticketing and support portal API with relational PostgreSQL storage.
+Technologies: Python, Django, PostgreSQL, Git
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Science in Information Technology
+Crestview Institute of Technology | Graduation Year: 2024
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+None
